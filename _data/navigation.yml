@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Belajar Perhotelan"
-    url: /
    - title: "About"
      url: /about/
    - title: "Tags"
