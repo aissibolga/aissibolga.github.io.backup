@@ -1,13 +1,9 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "Belajar Perhotelan| Food and Beverage"
 categories:
-  - Edge Case
+  - Food and Beverage
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - definisi food and beverage
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
