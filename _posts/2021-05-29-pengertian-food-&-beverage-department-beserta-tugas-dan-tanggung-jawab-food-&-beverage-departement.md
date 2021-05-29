@@ -28,14 +28,8 @@ Memastikan kenyamanan dan keselamatan para staf dan pelanggan.
 
 ### Materi Dasar Food and Beverage
 
-{% include base_path %}
-
 
 ![Foo]({{ base_path }}/images/unsplash-gallery-image-3.jpg)
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Food and Beverage.</figcaption>
-</figure>
 
 ## Pembahasan lainnya dalam Belajar Perhotelan:
 #### food and beverage department
