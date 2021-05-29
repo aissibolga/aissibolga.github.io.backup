@@ -18,13 +18,13 @@ Memeriksa dan membersihkan seluruh area makan sesuai dengan prosedur hotel sebel
 Memeriksa dan membersihkan semua fasilitas dan peralatan F&B department.
 Memastikan kenyamanan dan keselamatan para staf dan pelanggan.
 
-### Prospek Kerja Food and Beverage
-Manajer Restoran dan Kafe
-Bar Manager
-Food and Beverage Manager
-Food and Beverage Director
-Banquet Manager
-Katering
+## Prospek Kerja Food and Beverage
+### Manajer Restoran dan Kafe
+### Bar Manager
+### Food and Beverage Manager
+### Food and Beverage Director
+### Banquet Manager
+### Katering
 
 ### Materi Dasar Food and Beverage
 
@@ -37,7 +37,7 @@ Katering
   <figcaption>Food and Beverage.</figcaption>
 </figure>
 
-## pembahasan lainnya dalam belajar Perhotelan:
+## Pembahasan lainnya dalam Belajar Perhotelan:
 #### food and beverage department
 #### materi food and beverage kelas 11
 #### food and beverage service department
