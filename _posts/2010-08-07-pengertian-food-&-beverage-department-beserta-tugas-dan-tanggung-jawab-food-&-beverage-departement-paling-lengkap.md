@@ -1,10 +1,11 @@
 ---
-title: "Post: Image (Caption)"
+title: "Pengertian Food & Beverage Department Beserta Tugas Dan Tanggung Jawab Food & Beverage Departement Paling Lengkap"
 categories:
-  - Post Formats
+  - Food & Beverage
 tags:
-  - image
-  - Post Formats
+  - Food & Beverage
+  - F&B
+  - Pengertian Food & Beverage
 ---
 
 {% include base_path %}
