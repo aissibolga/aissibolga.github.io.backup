@@ -1,13 +1,13 @@
 ---
-title: "Pengertian Food and Beverage Menurut Para Ahli"
+title: "Pengertian Food and Beverage Service Menurut Para Ahli"
 last_modified_at: 2020-02-01T16:20:02-05:00
 categories:
   - Food and Beverage
 tags:
-  - Pengertian Food and Beverage
+  - Pengertian Food and Beverage Service
 ---
 
-Berdasarkan [Pengertian Food and Beverage]({% post_url 2021-05-15-pengertian-food-and-beverage %}). Para ahli mengelompokkan atau meemiliki pengartian yang berbeda - beda.
+Berdasarkan [Pengertian Food and Beverage Service]({% post_url 2021-05-15-pengertian-food-and-beverage %}). Para ahli mengelompokkan atau meemiliki pengartian yang berbeda - beda.
 Dalam perkembangan dunia Perhotelan yang sekarang ini, semua industri baik itu jasa dengan perkembangan zaman makanan dan minuman(food and beverage) telah menjadi usaha yang menjanjikan. Dalam tulisan ini akan mengulas mengenai F&B menurut para ahli, perlu diketahui terlebih dahulu definisi dari perhotelan.
 
 Hal yang seperti ini telah menyebar di semua dunia bahkan di di berbagai kalangan kehidupan mulai dari hotel, restoran, kantin industri, kantin rumah sakit, kereta api, saluran udara, semua kini menjadi bagian dari industri jasa makanan & minuman.
