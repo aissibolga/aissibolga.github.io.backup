@@ -16,7 +16,7 @@ Pengertian Food and Beverage Perhotelan adalah
 
 ## Pengertian Food and Beverage Service
 
-### Pengertian Food and Beverage Service Menurut Para Ahli
+### [Pengertian Food and Beverage Service Menurut Para Ahli]({% post_url 2020-01-07-pengertian-food-and-beverage-menurut-para-ahli %})
 1. ordered item 
    * **unordered**
    * **unordered** 
